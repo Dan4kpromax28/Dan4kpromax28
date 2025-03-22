@@ -20,7 +20,7 @@
 - **Embedded**: ESP32, Arduino
 - **Tools**: Git, PowerDesigner, MySQL Workbench, VS Code
 - 
-## 📖 Fun Facts
+## 📖 Interesting Facts
 
 - 🛠 I enjoy working on both hardware and software sides of projects  
 - 🙏 I'm a Christian and value purposeful, ethical tech  
